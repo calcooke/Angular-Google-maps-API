@@ -1,0 +1,7 @@
+{
+  "name": "archTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
