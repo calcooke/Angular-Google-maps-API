@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kebab-11957": {
+      "hosting": {
+        "app": [
+          "kebab-11957"
+        ]
+      }
+    }
+  }
+}
